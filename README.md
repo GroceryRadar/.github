@@ -100,6 +100,3 @@ GroceryRadar is a lightweight, community-driven grocery store recommendation sys
 - **Version Control**: Git
 
 ---
-
-**Built with ❤️ by Mik Driver** 
-
