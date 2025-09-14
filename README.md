@@ -61,6 +61,8 @@ GroceryRadar is a lightweight, community-driven grocery store recommendation sys
 - **Checkout Integration**: Direct links to Instacart store carts
 - **Error Handling**: Robust API failure handling and fallback states
 
+---
+
 ## **Architecture**
 
 ### **Frontend**
